@@ -19,7 +19,7 @@ The purpose of this assignment was to use a large sample of data related to kick
 
 - There doesnt seem to be any relation between a play being canceled and when it was launched. 
 ### Analysis of Outcomes Based on Goals
-- The outcomes based on goal appears to have an inverse relationship. As in, the plays with the smallest goal, have the highest sucess rate and the lowest failure rate, while playes with more than 50,000 as their goal, have the opposite. 
+- The outcomes based on goal appears to have an inverse relationship. As in, the plays with the smallest goal, have the highest sucess rate and the lowest failure rate, while plays with more than 50,000 as their goal, have the opposite. 
 - The first inflection point, where plays have a higher percent chance of failing, occurs when the goal amount is between 15,000 and 19,999. There is then a brief shift at the range, 35,000 to 39,999 which changes back to failures being more likely at, 40,000 to 44,999. 
 - ![Outcomes vs Goals](https://user-images.githubusercontent.com/107723677/177051621-70b284b4-e346-4590-a78c-69731dff2a39.png)
 ### Challenges and Difficulties Encountered
